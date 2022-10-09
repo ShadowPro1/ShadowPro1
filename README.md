@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShadowPro1
 - 👀 I’m interested in html
 - 🌱 I’m currently learning html
-- 📫 How to reach me ShadowDude#1124
+- 📫 Reach me on discord ShadowDude#1124
 
 <!---
 ShadowPro1/ShadowPro1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
